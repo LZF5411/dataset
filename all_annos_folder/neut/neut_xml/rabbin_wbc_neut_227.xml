@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>rabbin_wbc_neut_227.jpg</filename>
+	<path>/my-project-name/rabbin_wbc_neut_227.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>486</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>neut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>151</ymin>
+			<xmax>349</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

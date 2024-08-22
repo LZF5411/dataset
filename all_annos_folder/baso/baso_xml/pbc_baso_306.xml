@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>pbc_baso_306.jpg</filename>
+	<path>/my-project-name/pbc_baso_306.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>baso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>129</ymin>
+			<xmax>297</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>neut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>130</ymin>
+			<xmax>133</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

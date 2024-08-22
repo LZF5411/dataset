@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>lisc_lymp_149.jpg</filename>
+	<path>/my-project-name/lisc_lymp_149.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lymp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>469</xmin>
+			<ymin>347</ymin>
+			<xmax>539</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

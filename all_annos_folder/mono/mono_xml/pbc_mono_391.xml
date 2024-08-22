@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>pbc_mono_391.jpg</filename>
+	<path>/my-project-name/pbc_mono_391.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>mono</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>94</ymin>
+			<xmax>263</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

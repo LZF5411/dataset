@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>lisc_neut_116.jpg</filename>
+	<path>/my-project-name/lisc_neut_116.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>neut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>117</ymin>
+			<xmax>286</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

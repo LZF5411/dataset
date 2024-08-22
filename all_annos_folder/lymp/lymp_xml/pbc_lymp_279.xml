@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>pbc_lymp_279.jpg</filename>
+	<path>/my-project-name/pbc_lymp_279.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lymp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>136</ymin>
+			<xmax>241</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

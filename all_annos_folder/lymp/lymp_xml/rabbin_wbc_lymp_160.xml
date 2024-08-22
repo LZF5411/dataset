@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>rabbin_wbc_lymp_160.jpg</filename>
+	<path>/my-project-name/rabbin_wbc_lymp_160.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>575</width>
+		<height>575</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lymp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>172</ymin>
+			<xmax>374</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

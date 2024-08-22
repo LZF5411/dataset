@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>rabbin_wbc_eosi_228.jpg</filename>
+	<path>/my-project-name/rabbin_wbc_eosi_228.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>575</width>
+		<height>575</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>eosi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>130</ymin>
+			<xmax>429</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

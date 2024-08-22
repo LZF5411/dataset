@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>pbc_eosi_97.jpg</filename>
+	<path>/my-project-name/pbc_eosi_97.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>eosi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>168</ymin>
+			<xmax>237</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>eosi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>65</ymin>
+			<xmax>143</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

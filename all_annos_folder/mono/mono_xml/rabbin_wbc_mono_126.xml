@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>rabbin_wbc_mono_126.jpg</filename>
+	<path>/my-project-name/rabbin_wbc_mono_126.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>575</width>
+		<height>575</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>mono</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>158</ymin>
+			<xmax>403</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>rabbin_wbc_baso_173.jpg</filename>
+	<path>/my-project-name/rabbin_wbc_baso_173.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>575</width>
+		<height>575</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>baso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>179</ymin>
+			<xmax>401</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>neut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>295</ymin>
+			<xmax>295</xmax>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+</annotation>

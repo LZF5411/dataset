@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>lisc_baso_198.jpg</filename>
+	<path>/my-project-name/lisc_baso_198.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>baso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>50</ymin>
+			<xmax>305</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>
